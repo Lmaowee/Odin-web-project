@@ -8,3 +8,10 @@ body {
     font-size: 28px;
     font-family: 'Times New Roman', Times, serif;
 }
+
+.container {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 20px;
+}
+
